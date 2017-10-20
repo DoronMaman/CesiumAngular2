@@ -1,0 +1,46 @@
+import { AfterViewInit, Component, ViewEncapsulation } from '@angular/core';
+import { WebSocketSupplier } from '../utils/services/webSocketSupplier/webSocketSupplier';
+import { MapLayerProviderOptions } from '../../src/models/map-layer-provider-options.enum';
+import { DomSanitizer } from '@angular/platform-browser';
+import { MdDialog, MdIconRegistry } from '@angular/material';
+import { AppSettingsService, TracksType } from './services/app-settings-service/app-settings-service';
+import { MapsManagerService } from '../../src/services/maps-manager/maps-manager.service';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: 'app.component.html',
+  styleUrls: ['app.component.css'],
+  providers: [WebSocketSupplier, AppSettingsService],
+  encapsulation: ViewEncapsulation.None
+})
+
+export class AppComponent implements AfterViewInit {
+  arcGisMapServerProvider = MapLayerProviderOptions.ArcGisMapServer;
+  flyToOptions = {
+    duration: 2,
+    destination: Cesium.Cartesian3.fromDegrees(32.109333, 34.855499, 15000.0),
+  };
+
+  TracksType = TracksType;
+
+  constructor(public appSettingsService: AppSettingsService,
+              iconRegistry: MdIconRegistry,
+              sanitizer: DomSanitizer,
+              private dialog: MdDialog,
+              private viewersManager: MapsManagerService) {
+    iconRegistry.addSvgIcon(
+      'settings',
+      sanitizer.bypassSecurityTrustResourceUrl('/assets/settings.svg'));
+    this.appSettingsService.showTracksLayer = true;
+  }
+
+  settingsClick(sidenav) {
+    this.dialog.closeAll();
+    sidenav.open();
+  }
+
+  ngAfterViewInit(): void {
+    // example for getting the viewer by Id outside of the ac-map hierarchy
+    const viewer = this.viewersManager.getMap('main-map');
+  }
+}

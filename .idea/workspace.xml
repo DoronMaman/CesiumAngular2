@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="322849fa-c0a1-44c3-9603-2951aa43e046" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/app/app.component.ts" afterPath="$PROJECT_DIR$/demo/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.html" afterPath="$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.ts" afterPath="$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsconfig.aot.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsconfig.aot.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-411">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rollup.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rollup.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="draw-on-map-layer.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/app/components/draw-on-map-layer/draw-on-map-layer.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="draw-on-map-layer.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/app/components/draw-on-map-layer/draw-on-map-layer.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hippodrome-layer.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/app/components/hippodrome-layer/hippodrome-layer.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+              <folding>
+                <marker date="1505466372703" expanded="true" signature="433:702" ph="..." />
+                <marker date="1505466372703" expanded="true" signature="654:684" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings-form.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="52" column="24" lean-forward="true" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings-form.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="25" column="132" lean-forward="false" selection-start-line="25" selection-start-column="132" selection-end-line="25" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>camera</find>
+      <find>flyto</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Angular\New folder\angular-cesium\demo\app\components\draw-on-map-layer</dir>
+      <dir>C:\Angular\New folder\angular-cesium\demo\app</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.ts" />
+        <option value="$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-cesium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/app" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="322849fa-c0a1-44c3-9603-2951aa43e046" name="Default" comment="" />
+      <created>1508523793833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508523793833</updated>
+      <workItem from="1508523795442" duration="2543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2543000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/cesium-enhancements/StaticGeometryColorBatch.js" />
+        <option value="$PROJECT_DIR$/src/cesium-enhancements/StaticGeometryColorBatch.js.map" />
+        <option value="$PROJECT_DIR$/src/cesium-enhancements/ConfigurationService.js" />
+        <option value="$PROJECT_DIR$/src/cesium-enhancements/ConfigurationService.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-billboard-primitive-desc/ac-billboard-primitive-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-billboard-primitive-desc/ac-billboard-primitive-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline-primitive-desc/ac-polyline-primitive-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline-primitive-desc/ac-polyline-primitive-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline-volume-desc/ac-polyline-volume-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline-volume-desc/ac-polyline-volume-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-label-primitive-desc/ac-label-primitive-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-label-primitive-desc/ac-label-primitive-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-map-layer-provider/ac-map-layer-provider.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-map-layer-provider/ac-map-layer-provider.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-default-plonter/ac-default-plonter.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-default-plonter/ac-default-plonter.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-rectangle-desc/ac-rectangle-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-rectangle-desc/ac-rectangle-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-ellipsoid-desc/ac-ellipsoid-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-ellipsoid-desc/ac-ellipsoid-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-billborad-desc/ac-billborad-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-billborad-desc/ac-billborad-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline-desc/ac-polyline-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline-desc/ac-polyline-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-cylinder-desc/ac-cylinder-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-cylinder-desc/ac-cylinder-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-corridor-desc/ac-corridor-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-corridor-desc/ac-corridor-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-polygon-desc/ac-polygon-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-polygon-desc/ac-polygon-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-ellipse-desc/ac-ellipse-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-ellipse-desc/ac-ellipse-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-dynamic-polyline-desc/ac-dynamic-polyline-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-dynamic-polyline-desc/ac-dynamic-polyline-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-polyline-desc/ac-static-polyline-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-polyline-desc/ac-static-polyline-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-dynamic-ellipse-desc/ac-dynamic-ellipse-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-dynamic-ellipse-desc/ac-dynamic-ellipse-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-polygon-desc/ac-static-polygon-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-polygon-desc/ac-static-polygon-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-ellipse-desc/ac-static-ellipse-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-ellipse-desc/ac-static-ellipse-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-dynamic-circle-desc/ac-dynamic-circle-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-dynamic-circle-desc/ac-dynamic-circle-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-circle-desc/ac-static-circle-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/static-dynamic/ac-static-circle-desc/ac-static-circle-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-circle-desc/ac-circle-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-circle-desc/ac-circle-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-point-desc/ac-point-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-point-desc/ac-point-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-model-desc/ac-model-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-model-desc/ac-model-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-label-desc/ac-label-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-label-desc/ac-label-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-3d-tileset/ac-tileset-3d.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-3d-tileset/ac-tileset-3d.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-wall-desc/ac-wall-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-wall-desc/ac-wall-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-billboard/ac-billboard.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-billboard/ac-billboard.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline/ac-polyline.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-polyline/ac-polyline.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-box-desc/ac-box-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-box-desc/ac-box-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-arc-desc/ac-arc-desc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-arc-desc/ac-arc-desc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-polygon/ac-polygon.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-polygon/ac-polygon.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-ellipse/ac-ellipse.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-ellipse/ac-ellipse.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-circle/ac-circle.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-circle/ac-circle.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-point/ac-point.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-point/ac-point.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-layer/ac-layer.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-layer/ac-layer.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-label/ac-label.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-label/ac-label.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-html/ac-html.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-html/ac-html.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-map/ac-map.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-map/ac-map.component.js.map" />
+        <option value="$PROJECT_DIR$/src/components/ac-arc/ac-arc.component.js" />
+        <option value="$PROJECT_DIR$/src/components/ac-arc/ac-arc.component.js.map" />
+        <option value="$PROJECT_DIR$/src/services/viewer-configuration/viewer-configuration.service.js" />
+        <option value="$PROJECT_DIR$/src/services/viewer-configuration/viewer-configuration.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/coordinate-converter/coordinate-converter.service.js" />
+        <option value="$PROJECT_DIR$/src/services/coordinate-converter/coordinate-converter.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/basic-primitive-desc/basic-static-primitive-desc.service.js" />
+        <option value="$PROJECT_DIR$/src/services/basic-primitive-desc/basic-static-primitive-desc.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-observers/cesium-pure-event-observer.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-observers/cesium-pure-event-observer.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-observers/cesium-drag-drop-helper.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-observers/cesium-drag-drop-helper.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-observers/cesium-long-press-observer.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-observers/cesium-long-press-observer.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/consts/pickOptions.enum.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/consts/pickOptions.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/consts/cesium-event.enum.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/consts/cesium-event.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/consts/cesium-event-modifier.enum.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/consts/cesium-event-modifier.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/map-events-manager.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/map-events-manager.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/cesium-event-builder.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/cesium-event-builder.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-registration-input.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/event-registration-input.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/disposable-observable.js" />
+        <option value="$PROJECT_DIR$/src/services/map-events-mananger/disposable-observable.js.map" />
+        <option value="$PROJECT_DIR$/src/services/computation-cache/computation-cache.service.js" />
+        <option value="$PROJECT_DIR$/src/services/computation-cache/computation-cache.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/cesium-properties/cesium-properties.service.js" />
+        <option value="$PROJECT_DIR$/src/services/cesium-properties/cesium-properties.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/keyboard-control/predefined-actions.js" />
+        <option value="$PROJECT_DIR$/src/services/keyboard-control/predefined-actions.js.map" />
+        <option value="$PROJECT_DIR$/src/services/keyboard-control/keyboard-control.service.js" />
+        <option value="$PROJECT_DIR$/src/services/keyboard-control/keyboard-control.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/viewer-factory/viewer-factory.service.js" />
+        <option value="$PROJECT_DIR$/src/services/viewer-factory/viewer-factory.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/smart-assigner/smart-assigner.service.js" />
+        <option value="$PROJECT_DIR$/src/services/smart-assigner/smart-assigner.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/layer-service/layer-service.service.js" />
+        <option value="$PROJECT_DIR$/src/services/layer-service/layer-service.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/entity-on-map/entity-on-map.component.js" />
+        <option value="$PROJECT_DIR$/src/services/entity-on-map/entity-on-map.component.js.map" />
+        <option value="$PROJECT_DIR$/src/services/maps-manager/maps-manager.service.js" />
+        <option value="$PROJECT_DIR$/src/services/maps-manager/maps-manager.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/json-mapper/json-mapper.service.js" />
+        <option value="$PROJECT_DIR$/src/services/json-mapper/json-mapper.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/map-layers/map-layers.service.js" />
+        <option value="$PROJECT_DIR$/src/services/map-layers/map-layers.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/basic-desc/basic-desc.service.js" />
+        <option value="$PROJECT_DIR$/src/services/basic-desc/basic-desc.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/geo-utils/geo-utils.service.js" />
+        <option value="$PROJECT_DIR$/src/services/geo-utils/geo-utils.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/plonter/plonter.service.js" />
+        <option value="$PROJECT_DIR$/src/services/plonter/plonter.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/billboard-primitive-drawer/billboard-primitive-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/billboard-primitive-drawer/billboard-primitive-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polyline-primitive-drawer/polyline-primitive-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polyline-primitive-drawer/polyline-primitive-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/label-primitive-drawer/label-primitive-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/label-primitive-drawer/label-primitive-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polyline-volume-dawer/polyline-volume-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polyline-volume-dawer/polyline-volume-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/primitives-drawer/primitives-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/primitives-drawer/primitives-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/billboard-drawer/billboard-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/billboard-drawer/billboard-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/rectangle-dawer/rectangle-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/rectangle-dawer/rectangle-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polyline-drawer/polyline-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polyline-drawer/polyline-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/entities-drawer/enums/graphics-type.enum.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/entities-drawer/enums/graphics-type.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/entities-drawer/optimized-entity-collection.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/entities-drawer/optimized-entity-collection.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/entities-drawer/entities-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/entities-drawer/entities-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/ellipoid-drawer/ellipsoid-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/ellipoid-drawer/ellipsoid-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-primitive-drawer/static-primitive-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-primitive-drawer/static-primitive-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/dynamic-polyline-drawer/dynamic-polyline-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/dynamic-polyline-drawer/dynamic-polyline-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-polyline-drawer/static-polyline-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-polyline-drawer/static-polyline-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-polygon-drawer/polygon-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-polygon-drawer/polygon-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-circle-drawer/static-circle-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/static-circle-drawer/static-circle-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/ellipse-drawer/ellipse-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/ellipse-drawer/ellipse-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/ellipse-drawer/dynamic-ellipse-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/static-dynamic/ellipse-drawer/dynamic-ellipse-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polygon-drawer/polygon-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/polygon-drawer/polygon-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/ellipse-drawer/ellipse-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/ellipse-drawer/ellipse-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/cylinder-dawer/cylinder-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/cylinder-dawer/cylinder-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/corridor-dawer/corridor-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/corridor-dawer/corridor-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/point-drawer/point-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/point-drawer/point-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/model-drawer/model-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/model-drawer/model-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/label-drawer/label-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/label-drawer/label-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/basic-drawer/basic-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/basic-drawer/basic-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/wall-dawer/wall-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/wall-dawer/wall-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/arc-drawer/arc-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/arc-drawer/arc-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/drawers/box-dawer/box-drawer.service.js" />
+        <option value="$PROJECT_DIR$/src/services/drawers/box-dawer/box-drawer.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/cesium/cesium.service.js" />
+        <option value="$PROJECT_DIR$/src/services/cesium/cesium.service.js.map" />
+        <option value="$PROJECT_DIR$/src/services/camera/camera.service.js" />
+        <option value="$PROJECT_DIR$/src/services/camera/camera.service.js.map" />
+        <option value="$PROJECT_DIR$/src/models/entities-drawer-options.js" />
+        <option value="$PROJECT_DIR$/src/models/entities-drawer-options.js.map" />
+        <option value="$PROJECT_DIR$/src/models/ac-entity.js" />
+        <option value="$PROJECT_DIR$/src/models/ac-entity.js.map" />
+        <option value="$PROJECT_DIR$/src/models/ac-keyboard-action.enum.js" />
+        <option value="$PROJECT_DIR$/src/models/ac-keyboard-action.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/models/ac-notification.js" />
+        <option value="$PROJECT_DIR$/src/models/ac-notification.js.map" />
+        <option value="$PROJECT_DIR$/src/models/layer-options.js" />
+        <option value="$PROJECT_DIR$/src/models/layer-options.js.map" />
+        <option value="$PROJECT_DIR$/src/models/action-type.enum.js" />
+        <option value="$PROJECT_DIR$/src/models/action-type.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/models/scene-mode.enum.js" />
+        <option value="$PROJECT_DIR$/src/models/scene-mode.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/models/module-options.js" />
+        <option value="$PROJECT_DIR$/src/models/module-options.js.map" />
+        <option value="$PROJECT_DIR$/src/models/map-layer-provider-options.enum.js" />
+        <option value="$PROJECT_DIR$/src/models/map-layer-provider-options.enum.js.map" />
+        <option value="$PROJECT_DIR$/src/utils/utils.service.js" />
+        <option value="$PROJECT_DIR$/src/utils/utils.service.js.map" />
+        <option value="$PROJECT_DIR$/src/utils/utils.module.js" />
+        <option value="$PROJECT_DIR$/src/utils/utils.module.js.map" />
+        <option value="$PROJECT_DIR$/src/utils/checker.js" />
+        <option value="$PROJECT_DIR$/src/utils/checker.js.map" />
+        <option value="$PROJECT_DIR$/src/pipes/radians-to-degrees/radians-to-degrees.pipe.js" />
+        <option value="$PROJECT_DIR$/src/pipes/radians-to-degrees/radians-to-degrees.pipe.js.map" />
+        <option value="$PROJECT_DIR$/src/pipes/pixel-offset/pixel-offset.pipe.js" />
+        <option value="$PROJECT_DIR$/src/pipes/pixel-offset/pixel-offset.pipe.js.map" />
+        <option value="$PROJECT_DIR$/src/pipes.js" />
+        <option value="$PROJECT_DIR$/src/pipes.js.map" />
+        <option value="$PROJECT_DIR$/src/models.js" />
+        <option value="$PROJECT_DIR$/src/models.js.map" />
+        <option value="$PROJECT_DIR$/src/components.js" />
+        <option value="$PROJECT_DIR$/src/components.js.map" />
+        <option value="$PROJECT_DIR$/src/services.js" />
+        <option value="$PROJECT_DIR$/src/services.js.map" />
+        <option value="$PROJECT_DIR$/src/angular-cesium.module.js" />
+        <option value="$PROJECT_DIR$/src/angular-cesium.module.js.map" />
+        <option value="$PROJECT_DIR$/src/operators.js" />
+        <option value="$PROJECT_DIR$/src/operators.js.map" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.aot.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1278">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.aot.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/app/components/draw-on-map-layer/draw-on-map-layer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/camera/camera.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="212" column="16" lean-forward="false" selection-start-line="212" selection-start-column="16" selection-end-line="212" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/app/components/draw-on-map-layer/draw-on-map-layer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/app/components/hippodrome-layer/hippodrome-layer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding>
+            <marker date="1505466372703" expanded="true" signature="433:702" ph="..." />
+            <marker date="1505466372703" expanded="true" signature="654:684" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="52" column="24" lean-forward="true" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/app/shared/settings-form/settings-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" column="132" lean-forward="false" selection-start-line="25" selection-start-column="132" selection-end-line="25" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="356" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rollup.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
